@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>HobbitGame</groupId>
-    <artifactId>ua.edu.ucu.apps.game</artifactId>
+    <groupId>ua.edu.ucu.apps.game</groupId>
+    <artifactId>HobbitGame</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
